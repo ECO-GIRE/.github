@@ -1,10 +1,20 @@
-## <strong>ECO-GIRE</strong>: des solutions écologiques et durables de disponibilité de l'eau à travers une gestion complète des ressources naturelles
----
-[logo]
-#### Description du projet
+<div align="center">
+<!-- PROJECT TITLE AND SHORT DESCRIPTION -->
+<h1 align="center">ECO-GIRE</h1>
+  <p align="center">
+    Ecological and sustainable water availability solutions through comprehensive management of natural resources.
+  </p>
+</div>
 
-#### SubTitle1
+----
+<br>
 
-#### SubTitle2
+<!-- DETAILED DESCRIPTION -->
+## About The Organization
 
-#### Contact
+Présentation
+
+<!-- CONTACT -->
+## Contact
+
+Contact[at]organization.com
